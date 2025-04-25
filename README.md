@@ -1,0 +1,6 @@
+Simulation version information 
+
+- v2: plotting env and uavs
+- v3: adding buildings as static obstacles
+- v4: plotting paths taken by UAVS
+- v5: using the new gymnasium module
